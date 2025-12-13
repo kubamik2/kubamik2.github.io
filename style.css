@@ -10,6 +10,8 @@ body {
 canvas {
     margin: 0;
     padding: 0;
+    width: 288px;
+    height: 512px;
 }
 
 button {
